@@ -1,2 +1,2 @@
 # FgcTeamGreece2023
-The OpMode used in the 2023 FIRST GLOBAL Challenge in Singapore by the Greek National Robotics Team (FGC Team Greece) written by Markos Narinian.
+Developed by Markos Narinian programmer of and one of the five memebers that represented the Greek National Robotics Team (GNRT/FGC Team Greece) in the 2023 FIRST Global Challenge (2023 FGC) in Singapore. This is the OpMode used during the competition by Team Greece.
